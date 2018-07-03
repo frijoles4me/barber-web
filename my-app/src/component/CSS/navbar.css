@@ -1,10 +1,10 @@
 .backImage {
-  position: static;
-  background: url("../../img/romero.jpg") no-repeat;
+  position: relative;
+  background: url("../../img/romero4.jpg") no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: relative;
   background-attachment: fixed;
-  height: 90vh;
+  height: 95%;
   /* margin-top: -100px;
   margin-bottom: -100px; */
 }
